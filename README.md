@@ -1,7 +1,7 @@
 ## Module 9: Introduction to Data Analysis with Pandas – GlobalTech Sales Analysis
 
 ### Files Included
-- `module9-assignment.py`
+module9-assignment.py
 
 ### What I Practiced
 In this assignment, I practiced using Pandas to explore, filter, and analyze business data. I worked with a sales dataset to calculate key metrics, identify trends, and extract meaningful insights. I also gained experience handling missing data and performing grouped analysis to better understand product and regional performance.
